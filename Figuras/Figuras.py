@@ -1,9 +1,6 @@
-"""
-Grupo 8
-Nombre del archivo: Figuras.py
-Descripcion: Este programa permite al usuario seleccionar entre varias figuras
-Autor: Cesar Osciel Marquez Prado y Santiago Quijada Cecena
-"""
+# Nombre del archivo: Figuras.py
+# Descripcion: Este programa permite al usuario seleccionar entre varias figuras
+
 
 while True:
     print("--- MENU ---")

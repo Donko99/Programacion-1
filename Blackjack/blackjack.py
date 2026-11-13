@@ -1,9 +1,6 @@
-"""
-Grupo 8
-Nombre del archivo: Blackjack.py
-Descripcion: Este programa permite al usuario jugar al blackjack contra la computadora.
-Autor: Cesar Osciel Marquez Prado y Santiago Quijada Cecena
-"""
+# Nombre del archivo: Blackjack.py
+# Descripcion: Este programa permite al usuario jugar al blackjack contra la computadora.
+
 
 import random
 import tkinter as tk
