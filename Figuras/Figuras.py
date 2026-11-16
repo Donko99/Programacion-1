@@ -1,5 +1,5 @@
 # Nombre del archivo: Figuras.py
-# Descripcion: Este programa permite al usuario seleccionar entre varias figuras
+# Descripcion: Este programa permite al usuario seleccionar entre varias figuras y dibujarlas.
 
 
 while True:
