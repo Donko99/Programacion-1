@@ -1,5 +1,6 @@
 # Nombre del archivo: Numeros arabigos a numeros romanos.py
 # Descripcion: Este programa permite al usuario convertir un número arábigo a su equivalente en números romanos.
+# Comprueba que el dato ingresado sea valido
 
 n = int(input('Número (1-4000): '))
 

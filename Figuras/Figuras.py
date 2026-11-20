@@ -1,7 +1,6 @@
 # Nombre del archivo: Figuras.py
 # Descripcion: Este programa permite al usuario seleccionar entre varias figuras y dibujarlas.
 
-
 while True:
     print("--- MENU ---")
     print("1. Reloj de arena")

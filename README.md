@@ -6,8 +6,10 @@ programa se encuentra en su propia carpeta.
 
 ## Programas incluidos
 
+## Ejecucion del programa
+
 ### Figuras
-Este programa permite al usuario seleccionar entre varias figuras usando simbolos y las dibuja.
+abre el archivo principal y proporciona un menu y selecciona la figura que quieras.
 
 ### BlackJack
 Este programa permite al usuario jugar al blackjack contra la computadora.
